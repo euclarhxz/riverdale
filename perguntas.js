@@ -21,6 +21,7 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
 criaCartao(
     'Historia',
     'Onde surgiram os primeiros ancestrais do homem?',
@@ -32,6 +33,7 @@ criaCartao(
     'Quem foi a primeira pessoa a viajar no Espaço?',
     'Yuri Gagarin'
 )
+
 criaCartao(
     'Portugues',
     'Qual a montanha mais alta do mundo?',
@@ -41,6 +43,18 @@ criaCartao(
 criaCartao(
     'Portugues',
     'Onde se localiza Machu Picchu? ',
-    ''
+    '08680, Peru'
+)
+
+criaCartao(
+    'Espotes',
+    'Qual é a regra do futebol?',
+    'Os jogos são disputados por duas equipes e cada um conta com 11 jogadores; As partidas duram 90 minutos, divididos em dois tempos de 45 minutos; É proibido o uso das mãos.'
+)
+
+criaCartao(
+    'Esporte',
+    'Quais são as posições do vôlei? ',
+    'Levantador, Oposto, Ponta, Central, Líbero. '
 )
 
